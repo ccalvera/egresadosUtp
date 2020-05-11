@@ -81,6 +81,12 @@ se desarrollo gracias a la [documentacion oficial](https://laravel.com/docs).
     Laravel development server started: http://127.0.0.1:8000
     [Thu Apr 30 23:33:17 2020] PHP 7.4.5 Development Server (http://127.0.0.1:8000) started
     ```
+##Datos de prueba 
+
+Vista de super administrador: user: superadmin@g.co pass: 123
+Vista de administrador: user: admin@g.co pass: 123
+Vista de usuario egresado: user: egresado@g.co pass: 123
+
 ## Rutas
 
 
